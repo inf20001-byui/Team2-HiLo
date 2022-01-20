@@ -33,3 +33,6 @@ Team 2
 * Christopher Infante
 * Nahyra Viana
 * Cesar Rodriguez
+* TJ Miller
+* Celestina Lambert
+
