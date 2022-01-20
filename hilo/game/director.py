@@ -60,7 +60,7 @@ class Director:
         for i in range(len(self.cards)):
            card = self.cards[i]
            card.draw()
-           self.score += card.points 
+           self.score = card.points 
         self.total_score += self.score
 
     def do_outputs(self):
