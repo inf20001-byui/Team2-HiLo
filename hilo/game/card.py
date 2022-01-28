@@ -29,4 +29,4 @@ class Card:
         """
         # Still need to work on how points are calculated and awarded!
         self.value = random.randint(1, 13)
-        self.points = 100 if True else -100
+        self.points = 100 if True else -75
