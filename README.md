@@ -33,6 +33,6 @@ Team 2
 * Christopher Infante
 * Nahyra Viana
 * Cesar Rodriguez
-* TJ Miller - Testing to see if I can commit
+* TJ Miller
 * Celestina Lambert
 
